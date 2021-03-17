@@ -1,0 +1,13 @@
+Lab shell: tag: lab_shell (3da2e608a056e6d2681fa4e3059139d6ecd64c28)
+Result: 
+$ testsh nsh
+simple echo: PASS
+simple grep: PASS
+two commands: PASS
+output redirection: PASS
+input redirection: PASS
+both redirections: PASS
+simple pipe: PASS
+pipe and redirects: PASS
+lots of commands: PASS
+passed all tests
